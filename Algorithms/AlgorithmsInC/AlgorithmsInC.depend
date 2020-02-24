@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582559338 source:/home/maria/Documents/LearningC/Algorithms/AlgorithmsInC/main.c
+	<stdio.h>
+	<stdlib.h>
+
