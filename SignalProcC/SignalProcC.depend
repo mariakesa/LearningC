@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1582507072 source:/home/maria/Documents/LearningC/SignalProcC/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1582529400 source:/home/maria/Documents/LearningC/SignalProcC/waves.c
+
